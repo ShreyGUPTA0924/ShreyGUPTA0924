@@ -16,11 +16,11 @@
 shrey = {
     "name"        : "Shrey Gupta",
     "education"   : "ECE + CS @ JIIT Noida (Pre-Final Year)",
-    "internship"  : "Software Engineering Intern @ BEL (Bharat Electronics Limited)",
+    "internship"  : "GENAI Intern @ BEL (Bharat Electronics Limited)",
     "location"    : "Lucknow → [Noida | Gurugram | Bengaluru | Remote]",
-    "building"    : ["AI agents", "RAG pipelines", "India-first fintech products"],
-    "stack"       : ["LangChain", "OpenAI API", "Anthropic API", "FastAPI", "TypeScript"],
-    "open_to"     : "SDE Intern / Fresher Roles · ₹20K+ · Remote OK",
+    "building"    : ["AI agents", "RAG pipelines", "Web Dev Projects"],
+    "stack"       : ["LangGraph", "Node.js", "Python", "FastAPI", "TypeScript"],
+    "open_to"     : "SDE Intern / Fresher Roles / AI Roles ",
     "fun_fact"    : "I think in systems, build in sprints, ship with conviction 🛠️",
 }
 ```
@@ -36,8 +36,7 @@ shrey = {
 ### 🤖 AI / Agentic Systems
 - Multi-agent orchestration with **LangChain**
 - **RAG pipelines** using Qdrant vector store
-- Financial transaction classifier (93%+ accuracy)
-- Anthropic + OpenAI API integrations at scale
+- Financial transaction classifier (97%+ accuracy)
 
 </td>
 <td width="50%" valign="top">
