@@ -34,7 +34,7 @@ shrey = {
 <td width="50%" valign="top">
 
 ### 🤖 AI / Agentic Systems
-- Multi-agent orchestration with **LangChain**
+- Multi-agent orchestration with **LangGraph**
 - **RAG pipelines** using Qdrant vector store
 - Financial transaction classifier (97%+ accuracy)
 
